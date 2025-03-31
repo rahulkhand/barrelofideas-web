@@ -1,31 +1,11 @@
-# Astro Starter Kit: Blog
-
-![Astro Template Preview](https://github.com/withastro/astro/assets/2244813/ff10799f-a816-4703-b967-c78997e8323d)
-
-<!-- dash-content-start -->
-
-Create a blog with Astro and deploy it on Cloudflare Workers as a [static website](https://developers.cloudflare.com/workers/static-assets/).
-
-Features:
-
-- ✅ Minimal styling (make it your own!)
-- ✅ 100/100 Lighthouse performance
-- ✅ SEO-friendly with canonical URLs and OpenGraph data
-- ✅ Sitemap support
-- ✅ RSS Feed support
-- ✅ Markdown & MDX support
-
-<!-- dash-content-end -->
+# Barrel of Ideas Web
+Houses the links for the Factorylyze app on the app store
 
 ## Getting Started
-
-Outside of this repo, you can start a new project with this template using [C3](https://developers.cloudflare.com/pages/get-started/c3/) (the `create-cloudflare` CLI):
-
-```bash
-npm create cloudflare@latest -- --template=cloudflare/templates/barrelofideas-web
 ```
-
-A live public deployment of this template is available at [https://barrelofideas-web.templates.workers.dev](https://barrelofideas-web.templates.workers.dev)
+npm install astro
+```
+to download the necessary astro dependency, then builds and deployments should work
 
 ## 🚀 Project Structure
 
@@ -51,10 +31,7 @@ All commands are run from the root of the project, from a terminal:
 | `npm run astro -- --help` | Get help using the Astro CLI                     |
 | `npm run deploy`          | Deploy your production site to Cloudflare        |
 
-## 👀 Want to learn more?
+## Astro Usage
 
-Check out [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Check out [astro documentation](https://docs.astro.build) or jump into [Astro Discord](https://astro.build/chat).
 
-## Credit
-
-This theme is based off of the lovely [Bear Blog](https://github.com/HermanMartinus/bearblog/).
